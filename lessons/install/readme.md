@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3. It was suggested in the instructions. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,8 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+3.8.5 
+
 
  
 
