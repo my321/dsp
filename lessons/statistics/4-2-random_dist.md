@@ -7,6 +7,8 @@ Generate 1000 numbers from random.random and plot their PMF and CDF. Is the dist
  
   ![image of cdf](https://github.com/my321/dsp/blob/master/img/cdf_ch4_ex2.png)
 
+<p> As we can see in the pmf, the distrubution of the sample is uniform since all the values have the same probability. The story continues in the plot of the cdf which is a straight line, this means the distribution is uniform. The bottom x% of values are below the xth percentile, for any x between 0 and 100. </p>
+
 
 ```python
 #Chapter 4, Exercise 2
