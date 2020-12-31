@@ -86,7 +86,11 @@ Bayes' Theorem is an important tool in understanding what we really know, given 
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+<p> Answer: The probability the Elvis was an identical twin is <img src="https://render.githubusercontent.com/render/math?math=\frac{5}{17}">. We can use Bayes's Theorem to find the probability which can be restated as what is the probability that Elvis was an identical twin (A) given he was a twin (B). Bayes's Theorem says 
+  <img src="https://render.githubusercontent.com/render/math?math=P(A|B)= \frac{P(A)P(B|A)}{P(B)}"> . We know <img src="https://render.githubusercontent.com/render/math?math=P(B|A)">  or the probability of being a twin given you are an identical twin is 1. The <img src="https://render.githubusercontent.com/render/math?math=P(A) "> or the probability of being an identical twin is <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{300}">. The <img src="https://render.githubusercontent.com/render/math?math=P(B)"> or the probability of being a twin can be found using the law of total probability, so <img src="https://render.githubusercontent.com/render/math?math=P(B)= P(B_1)P(B|B_1)+P(B_2)P(B|B_2)"> where <img src="https://render.githubusercontent.com/render/math?math=B_1,B_2">  represent the event of being identical, fraternal twins. <img src="https://render.githubusercontent.com/render/math?math=P(B1)=\frac{1}{300}"> , 
+  <img src="https://render.githubusercontent.com/render/math?math=P(B|B_1)=1">, <img src="https://render.githubusercontent.com/render/math?math=P(B_2)=\frac{1}{125},"> and 
+  <img src="https://render.githubusercontent.com/render/math?math=P(B|B_2)=1"> , so <img src="https://render.githubusercontent.com/render/math?math=P(B)=\frac{17}{1500}"> . Plugging all of these back into Bayes's Theorem gets us <img src="https://render.githubusercontent.com/render/math?math=P(A|B)=\frac{5}{17}"> .    </p>
 
 ---
 
