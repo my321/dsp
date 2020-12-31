@@ -97,7 +97,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
-<p> Bayesian statistics requires either the knowledge of or construction of a prior, but frequentist statistics does not. Frequentist statistics assumes a hypothesis to be true and uses a distribution linked to that conditional probability, the likelihood. Frequentist statistics are commonly used in other fields, economists in particular have an obsession with significance levels and stars. 
+<p> Answer: Bayesian statistics requires either the knowledge of or construction of a prior, but frequentist statistics does not. Frequentist statistics assumes a hypothesis to be true and uses a distribution linked to that conditional probability, the likelihood. Frequentist statistics are commonly used in other fields, economists in particular have an obsession with significance levels and stars. </p>
 
 ---
 
